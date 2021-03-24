@@ -1,2 +1,4 @@
-# references
-A stockpile of D&amp;D reference
+# References
+
+A stockpile of D&D reference
+
