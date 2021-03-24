@@ -1,10 +1,13 @@
 # Encounters
 
+## Action Oriented
+
 
 
 * * [Action Oriented Catch All](https://www.reddit.com/r/mattcolville/comments/dkegva/action_oriented_monster_catch_all_thread/)
   * [Eldritch Pokemon](https://www.reddit.com/r/arkhamhorrorlcg/comments/i5vze2/pokemon_eldritch_edition_full_release/)
-  * * [Skill Challenge One-Pager](https://www.reddit.com/r/mattcolville/comments/jzohmn/since_were_sharing_skill_challenge_onepagers/)
+  *  * [Alternate Combat Objectives](https://www.reddit.com/r/DnDBehindTheScreen/comments/dfkcah/alternate_combat_objectives_varying_up_combat_by/)
+  * [Skill Challenge One-Pager](https://www.reddit.com/r/mattcolville/comments/jzohmn/since_were_sharing_skill_challenge_onepagers/)
   * [Trials: Reforge Your Skill Challenges and Theater-of-the-Mind](https://www.reddit.com/r/DnDBehindTheScreen/comments/jr15bz/trials_reforge_your_skill_challenges_and/)
   * [Building a Better Skill Challenge](https://www.reddit.com/r/DnDBehindTheScreen/comments/5isrhq/guide_building_a_better_skill_challenge/)
   * [K'varn Stats and Abilities](https://www.reddit.com/r/criticalrole/comments/3lrgnz/kvarns_stats_abilities/)
@@ -15,6 +18,13 @@
 [30 Different Power Disparities to Make Engaging Fights](https://www.reddit.com/r/DnDBehindTheScreen/comments/806ggr/30_different_power_disparities_to_make_engaging/)
 
 
+
+* [If You Find Your Combat Encounters Feeling a Little Lackluster - Use Game Design Archtypes](https://www.reddit.com/r/DnDBehindTheScreen/comments/ktecwf/if_you_find_your_combat_encounters_feeling_a/)
+
+
+
+* [The Elastic Combat Philosophy](https://www.reddit.com/r/DMAcademy/comments/jv84m4/the_elastic_combat_philosophy_why_i_dont_use/)
+* [I Like Big Bosses And I Cannot Lie](https://www.reddit.com/r/DnDBehindTheScreen/comments/ke7xha/i_like_big_bosses_and_i_cannot_lie_tips_for/)
 
 ## Chase Scenes
 

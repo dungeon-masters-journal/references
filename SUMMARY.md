@@ -1,27 +1,27 @@
 # Table of contents
 
 * [References](README.md)
-* [Adventuring](adventuring.md)
-* [Crafting](crafting.md)
-* [Encounters](encounters.md)
-* [General References](general-references.md)
-* [Inspiration](inspiration.md)
-* [Maps](maps.md)
-* [Music](music.md)
-* [Puzzles and Traps](puzzles-and-traps.md)
-* [Worldbuilding](worldbuilding.md)
+
+## General
+
+* [Adventuring](general/adventuring.md)
+* [Crafting](general/crafting.md)
+* [Encounters](general/encounters.md)
+* [General References](general/general-references.md)
+* [Inspiration](general/inspiration.md)
+* [Maps](general/maps.md)
+* [Music](general/music.md)
+* [Puzzles and Traps](general/puzzles-and-traps.md)
+* [Worldbuilding](general/worldbuilding.md)
 
 ## Tools
 
 * [Campaign Journals](tools/campaign-journals.md)
 * [Generators](tools/generators.md)
 * [Map Making](tools/map-making.md)
+* [Other](tools/untitled.md)
 * [Virtual Table Tops](tools/virtual-table-tops.md)
 * [Voice Modulation](tools/voice-modulation.md)
-
----
-
-* [Untitled](untitled.md)
 
 ## Waterdeep: Dragon Heist
 

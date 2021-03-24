@@ -115,3 +115,6 @@
             * The Lord's Alliance employs spies, diplomats, and assassins around various cities, so being a wanted criminal and fleeing Waterdeep may not guarantee safety.
         * [Yawning Portal Men](https://itcomagic.wixsite.com/itcomagic/menu)
 
+[https://www.reddit.com/r/DnDBehindTheScreen/comments/ekughq/heres\_my\_waterdeep\_city\_spreadsheet/](https://www.reddit.com/r/DnDBehindTheScreen/comments/ekughq/heres_my_waterdeep_city_spreadsheet/)  
+
+
