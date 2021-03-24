@@ -80,5 +80,20 @@
 * [https://www.reddit.com/r/DnDBehindTheScreen/comments/lrdj5c/the\_sphinx\_lounge\_and\_casino\_a\_dropin\_bar/](https://www.reddit.com/r/DnDBehindTheScreen/comments/lrdj5c/the_sphinx_lounge_and_casino_a_dropin_bar/)
 * [https://www.reddit.com/r/DnD/comments/ff22fy/oc\_d100\_voice\_acting\_references\_pdf\_download\_link/](https://www.reddit.com/r/DnD/comments/ff22fy/oc_d100_voice_acting_references_pdf_download_link/)
 
-[https://www.reddit.com/r/DnDBehindTheScreen/comments/895fz3/describe\_the\_scene\_with\_ease/](https://www.reddit.com/r/DnDBehindTheScreen/comments/895fz3/describe_the_scene_with_ease/)
+{% embed url="https://www.reddit.com/r/DnDBehindTheScreen/comments/895fz3/describe\_the\_scene\_with\_ease/" %}
+
+## House Rules
+
+
+
+**A List Of My House Rules**
+
+* The more descriptive and exact you are in your goals or intentions when making a skill check, the lower the DC. Looking around the room to notice anything? DC20. Looking around the room for something incriminating? DC15. Looking for the cultist's entry logbook that you suspect is in the room? DC10. Looking for the foreshadowed black and grey book, marked with the occult symbol? No roll. You either find it, or you're sure it's not there. \(Just rough examples\).
+* Administering a potion to another player is an action. Using one on yourself is a bonus action.
+* Intelligence, Wisdom, and Charisma ability checks can be done in combat as a bonus action when used with a skill you are proficient in. You can take a second to recall relevant facts about a monster, look for hazards in the environment, or scare an enemy into dropping their guard.
+  * Checks during combat that rely on sight or senses are bonus actions, but have a higher DC than if you weren't in combat.
+  * Social \(charisma\) checks during combat are bonus actions, and get higher or lower DCs based on the situation. Just turned a guy into hamburger meat with your glaive? Yeah... that intimidation check is going to be a little easier.
+* \(Possibly controversial\) I allowed players to choose athletics or acrobatics in almost all physical checks, _as long as_ they could paint the picture of _how_ they did it.
+* Players could use strength for intimidation.
+* [https://www.reddit.com/r/DnD/comments/741lrj/best\_house\_rules/](https://www.reddit.com/r/DnD/comments/741lrj/best_house_rules/)
 
