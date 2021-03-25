@@ -6,15 +6,17 @@
 
 ## Sea Ward
 
-* * **Cassalanter Villa**
-    * [Blueprints](https://www.reddit.com/r/WaterdeepDragonHeist/comments/jirpwh/i_made_a_blueprint_version_of_the_cassalanter/)
-      * 
-    * [Cassalanter Villa](https://www.reddit.com/r/WaterdeepDragonHeist/comments/gcru1v/i_made_a_full_color_grid_map_of_cassalanter_villa/)
+* [Branderthall Estate](https://www.reddit.com/r/WaterdeepDragonHeist/comments/m5s3uk/i_made_brandarthall_neverember_state_in_waterdeep/)
+* **Cassalanter Villa**
+  * [Blueprints](https://www.reddit.com/r/WaterdeepDragonHeist/comments/jirpwh/i_made_a_blueprint_version_of_the_cassalanter/)
+    * 
+  * [Cassalanter Villa](https://www.reddit.com/r/WaterdeepDragonHeist/comments/gcru1v/i_made_a_full_color_grid_map_of_cassalanter_villa/)
 
-    * [Phoenix Cartography](https://drive.google.com/drive/u/0/folders/1DJeOY1jd--tDiePLsEL9yooHWy1KCOal)
-    * [Player Maps](https://imgur.com/gallery/NZQsEHA)
+  * [Phoenix Cartography](https://drive.google.com/drive/u/0/folders/1DJeOY1jd--tDiePLsEL9yooHWy1KCOal)
+  * [Player Maps](https://imgur.com/gallery/NZQsEHA)
 
-    * [VTT](https://imgur.com/a/QBgZF1U)
+  * [VTT](https://imgur.com/a/QBgZF1U)
+
   * **Dock Ward**
 
     * [Dock Ward](https://valeurrpg.files.wordpress.com/2019/02/dock-ward-day.jpg?w=2200)

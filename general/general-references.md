@@ -1,20 +1,30 @@
 # General References
 
+* ❗ [Why I Write Levelling Up Stories](https://www.reddit.com/r/DnDBehindTheScreen/comments/deaqk7/why_i_write_levelling_up_stories_and_you_should/)
+
 ## Adventure Hooks
 
 * [1d20 Adventure Hooks from Movies](https://www.reddit.com/r/DnDBehindTheScreen/comments/hsa2xm/1d20_dd_adventure_hooks_from_movies/)
 * [4 Rules and practices that encourage a chaotic, RP-heavy combat](https://www.reddit.com/r/DnDBehindTheScreen/comments/ciyphv/4_rules_and_practices_that_encourage_a_chaotic/)
 
-## Games
+## Building a Campaign
 
+* [Building a Campaign from the Top Down: Part 1](https://www.reddit.com/r/DnDBehindTheScreen/comments/hc8vrx/building_a_campaign_from_the_top_down_part_1/)
+
+## Memes
+
+* [https://www.reddit.com/r/dndmemes/comments/lxj6rh/being\_a\_dm\_with\_crippling\_anxiety/](https://www.reddit.com/r/dndmemes/comments/lxj6rh/being_a_dm_with_crippling_anxiety/)
 * 
 ## NPCs
 
 * [7 Factors to making voices](https://www.reddit.com/r/DnDBehindTheScreen/comments/b2y3y5/7_factors_to_making_unique_npc_voices_also_frank/)
 * [7 Habits of Highly Effective NPC](https://www.reddit.com/r/DnDBehindTheScreen/comments/blrt67/steal_my_idea_the_7_habits_of_highly_effective/)
-  * [d100 List of Prisoners](https://www.reddit.com/r/d100/comments/jv2u54/lets_build_d100_list_of_prisoners_nameracecrime/)
+* [d100 List of Prisoners](https://www.reddit.com/r/d100/comments/jv2u54/lets_build_d100_list_of_prisoners_nameracecrime/)
+* ❗ [Note-card NPCs: A quick and easy template for fleshing out and referencing your NPCs](https://www.reddit.com/r/DnDBehindTheScreen/comments/a52n93/notecard_npcs_a_quick_and_easy_template_for/)
 
 ## Role-Playing
+
+* [Tips For Improving Your Improv As A DM Taken From Jazz Music](https://www.reddit.com/r/DMAcademy/comments/lydxeg/tips_for_improving_your_improv_as_a_dm_taken_from/)
 
 ## Running a Business
 
@@ -35,13 +45,13 @@
 
 
 
+[https://www.reddit.com/r/DnDIY/comments/m69thw/ive\_made\_a\_gust\_scroll\_for\_my\_players/](https://www.reddit.com/r/DnDIY/comments/m69thw/ive_made_a_gust_scroll_for_my_players/)
 
-
-* [A System to Make Stealth and Infiltration Missions More Tense](https://www.reddit.com/r/DnDBehindTheScreen/comments/l2a8pm/a_system_for_making_stealth_and_infiltration/)
-* [Ability Score Ranges Described](https://www.reddit.com/r/dndnext/comments/81cras/dd_ability_score_ranges_described/)
+* ❗ [A System to Make Stealth and Infiltration Missions More Tense](https://www.reddit.com/r/DnDBehindTheScreen/comments/l2a8pm/a_system_for_making_stealth_and_infiltration/)
+* ❗ [Ability Score Ranges Described](https://www.reddit.com/r/dndnext/comments/81cras/dd_ability_score_ranges_described/)
 * [Advanced Business Mechanics 1/3 Mercantile](https://www.reddit.com/r/DnDBehindTheScreen/comments/jxwnzw/advanced_business_mechanics_13_mercantile_a_set/)
 * [After A Player Fails a Roll Invent Active Opposition And Explain Why](https://www.reddit.com/r/DnDBehindTheScreen/comments/936u0a/after_a_player_fails_a_roll_invent_active/)
-* [Choosing DCs by Not Choosing DCs](https://www.reddit.com/r/DnDBehindTheScreen/comments/jzhcql/choosing_dcs_by_not_choosing_dcs/)
+* ❗ [Choosing DCs by Not Choosing DCs](https://www.reddit.com/r/DnDBehindTheScreen/comments/jzhcql/choosing_dcs_by_not_choosing_dcs/)
 * [Critical Roll Encounter Running Times](https://docs.google.com/spreadsheets/d/1Zx1N0cQcd1fJadUwar7f2hJ2p61qoX7lctsVaIEa5uM/edit#gid=482828795)
 * * * [d20 Heart Wrenching Answers to "I Loot the Body, What's Inside the Pockets](https://www.reddit.com/r/DnDBehindTheScreen/comments/jjprdm/1d20_heart_wrenching_answers_to_i_loot_the_body/)
 * [d20 Habits of Highly Successful Adventurers: Reconnaissance](https://www.reddit.com/r/dndnext/comments/fdyfqa/1d20_habits_of_highly_successful_adventurers/)

@@ -19,6 +19,9 @@
 * [Alternate Combat Objectives](https://www.reddit.com/r/DnDBehindTheScreen/comments/dfkcah/alternate_combat_objectives_varying_up_combat_by/)
 * [I Like Big Bosses And I Cannot Lie](https://www.reddit.com/r/DnDBehindTheScreen/comments/ke7xha/i_like_big_bosses_and_i_cannot_lie_tips_for/)
 * [If You Find Your Combat Encounters Feeling a Little Lackluster - Use Game Design Archtypes](https://www.reddit.com/r/DnDBehindTheScreen/comments/ktecwf/if_you_find_your_combat_encounters_feeling_a/)
+* [On the Shoulders of Colossus or: How to Feel the Weight of a Colossal Opponent](https://www.reddit.com/r/DnDBehindTheScreen/comments/ezsexj/on_the_shoulders_of_colossus_or_how_to_feel_the/)
+* [Slaying the Giants, Killing the Kaiju - 1 Page Guide to Fighting Colossal Monsters](https://www.reddit.com/r/DnDBehindTheScreen/comments/jcvv3n/slaying_the_giants_killing_the_kaiju_the/) 
+* [Social Combat Rules](https://www.reddit.com/r/DnDBehindTheScreen/comments/g7kfy2/social_combat_rules_a_structure_for_meaty/)
 * [The Elastic Combat Philosophy](https://www.reddit.com/r/DMAcademy/comments/jv84m4/the_elastic_combat_philosophy_why_i_dont_use/)
 
 ## Other

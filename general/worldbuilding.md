@@ -9,6 +9,7 @@ World Building Leviathan
 How to Build
 
 * [Building Kingdoms Worth Learning About](https://www.reddit.com/r/DnDBehindTheScreen/comments/jfh4fv/how_to_build_kingdoms_worth_learning_about/)
+* [Everybody Tells You How to Create a D&D City. Nobody Tells You What Buildings and Professions Bring Life to a City.](https://www.reddit.com/r/DMAcademy/comments/l2s5qq/everybody_tells_how_to_create_a_dd_city_nobody/)
 
 [/r/worldbuilding wiki](https://www.reddit.com/r/worldbuilding/wiki/reading_list)
 

@@ -1,7 +1,6 @@
 # Music
 
-
-
+* ❗ [Lessons From Film On How To Use Music](https://www.reddit.com/r/DnDBehindTheScreen/comments/bah952/lessons_from_film_on_how_to_use_music_in_dungeons/)
 * * [20+ Curated Spotify Playlists to Enhance Your Sessions](https://www.reddit.com/r/DungeonMasters/comments/k0j6y7/20_curated_spotify_playlists_to_enhance_your_dd/)
   * [24 Curated Spotify Playlists to Get the Most Immersive Atmosphere](https://www.reddit.com/r/DnDPlaylist/comments/kxa068/24_curated_spotify_playlists_to_get_the_most/)
   * [Cursed](https://www.reddit.com/r/DnDPlaylist/comments/kkirh0/cursed_the_soul_of_dark_1_hour_of_epic_dark/)

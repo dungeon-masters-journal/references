@@ -2,9 +2,9 @@
 
 [The Alchemist's Laboratory](https://www.reddit.com/r/DnDBehindTheScreen/comments/cot650/the_alchemists_laboratory_series_of_thematic/)
 
-[https://www.reddit.com/r/DnDBehindTheScreen/comments/fa9oip/a\_simple\_but\_engaging\_puzzle\_based\_on\_the\_5\_senses/](https://www.reddit.com/r/DnDBehindTheScreen/comments/fa9oip/a_simple_but_engaging_puzzle_based_on_the_5_senses/)
-
-
+* R[https://www.reddit.com/r/DnDBehindTheScreen/comments/fa9oip/a\_simple\_but\_engaging\_puzzle\_based\_on\_the\_5\_senses/](https://www.reddit.com/r/DnDBehindTheScreen/comments/fa9oip/a_simple_but_engaging_puzzle_based_on_the_5_senses/)
+* [Riddles Within Riddles](https://www.reddit.com/r/DnDBehindTheScreen/comments/fbbjnw/riddles_within_riddles/)
+* [The Chromatic Sigils: A Venn Diagram Puzzle For Your Dungeon](https://www.reddit.com/r/DnDBehindTheScreen/comments/i817yq/the_chromatic_sigils_a_venn_diagram_puzzle_for/)
 
 
 
