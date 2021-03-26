@@ -11,7 +11,10 @@
   * ​​![](https://mygamenightblog.files.wordpress.com/2020/03/tesper-invitation.jpg?w=869)​
 * ​[Props for a Modified Alexandrian Playthrough](https://www.reddit.com/r/WaterdeepDragonHeist/comments/ic4itk/props_for_a_modified_alexandrian_playthrough/)​
 * Rumor cards for a nobles party
-  * ​​![](https://mygamenightblog.files.wordpress.com/2020/03/noble-rumors-1-1-e1585546437258.jpg?w=869)​
+
+  * ​​![](https://mygamenightblog.files.wordpress.com/2020/03/noble-rumors-1-1-e1585546437258.jpg?w=869)
+
+* [Ticket for Lightbringer Theatre](https://www.reddit.com/r/WaterdeepDragonHeist/comments/ma1wbt/made_this_for_the_mirt_meeting/)​
 * ​[Vincent Trench Business Card](https://www.reddit.com/r/WaterdeepDragonHeist/comments/j69tm0/made_a_business_card_for_vincent_trench_asset_in/)​
 * ​[Waterdeep Map Player Handout](https://www.reddit.com/r/WaterdeepDragonHeist/comments/kpq3ej/waterdeep_map_player_handout/)
 

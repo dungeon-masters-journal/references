@@ -47,6 +47,8 @@ How to Build
 
 ## Magic Systems
 
+* [Magic system based on components of an electric circuit and programming languages](https://www.reddit.com/r/magicbuilding/comments/m8z3xf/magic_system_based_on_components_of_an_electric/)
+
 ## Religion
 
 
