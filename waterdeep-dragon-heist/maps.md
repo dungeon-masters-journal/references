@@ -2,30 +2,31 @@
 
 ## Dock Ward
 
-
-
-* * 
-    * [Old Xoblob Shop](https://www.patreon.com/posts/old-xoblod-shop-47143679)
-      * This is The Old Xoblob Shop in the Dock Ward of Waterdeep. Its on the corner of Fillet Ave and Zarstow St.
-    * [The Skewered Dragon](https://www.patreon.com/posts/skewered-dragon-47206891)
-      * * The Skewered Dragon is located along Fillet Ave in the Dock Ward of Waterdeep.
-    * [The Three Pearls](https://www.reddit.com/r/dndmaps/comments/l371mz/the_three_pearls_dock_ward_waterdeep/)
+* [Dock Ward](https://valeurrpg.files.wordpress.com/2019/02/dock-ward-day.jpg?w=2200)
+* [Dock Ward - One Hand Washes the Other](https://drive.google.com/drive/folders/1JYWzKMbpHjWvMVKSv1LnHzAdSrYBYGMx)
+* [Fillet Lane](https://www.reddit.com/r/WaterdeepDragonHeist/comments/konu2d/fillet_lane_dockward_waterdeep/)
+* [Merlook Place](https://www.patreon.com/posts/merlook-place-47476932)
+* [Muleskull Tavern](https://www.patreon.com/posts/muleskull-tavern-47612342)
+* [Old Xoblob Shop](https://www.patreon.com/posts/old-xoblod-shop-47143679)
+  * This is The Old Xoblob Shop in the Dock Ward of Waterdeep. Its on the corner of Fillet Ave and Zarstow St
+* [The Skewered Dragon](https://www.patreon.com/posts/skewered-dragon-47206891)
+  * The Skewered Dragon is located along Fillet Ave in the Dock Ward of Waterdeep.
+* [The Three Pearls](https://www.reddit.com/r/dndmaps/comments/l371mz/the_three_pearls_dock_ward_waterdeep/)
 
 ## North Ward
 
+### **Gralhund Villa**
 
+* [Gralhund Villa](https://www.reddit.com/r/WaterdeepDragonHeist/comments/k5rlxk/gralhund_villa/)
+  * * 
+* [Gralhund Villa](https://www.reddit.com/r/WaterdeepDragonHeist/comments/lee5yo/villa_gralhund_classic_and_alexandrian_remix_map/)
+* [Gralhund Villa](https://drive.google.com/drive/folders/1HCMV1fpN-4YbE_omp3VW_Bpw9TxdZ2Ue)
+* [Grallhund Villa](https://www.reddit.com/r/WaterdeepDragonHeist/comments/kkjcec/had_trouble_finding_a_gralhund_villa_map_so_made/)
+  * 
+* [Gralhund Villa](https://imgur.com/a/Lvz1Nja#pU3B7GA)
+*  * * * [J.B. Nevercott's Haberdashery](https://www.patreon.com/posts/j-b-nevercotts-47653881)
 
-* * **Gralhund Villa**
-    * [Gralhund Villa](https://www.reddit.com/r/WaterdeepDragonHeist/comments/k5rlxk/gralhund_villa/)
-      * * 
-    * [Gralhund Villa](https://www.reddit.com/r/WaterdeepDragonHeist/comments/lee5yo/villa_gralhund_classic_and_alexandrian_remix_map/)
-    * [Gralhund Villa](https://drive.google.com/drive/folders/1HCMV1fpN-4YbE_omp3VW_Bpw9TxdZ2Ue)
-    * [Grallhund Villa](https://www.reddit.com/r/WaterdeepDragonHeist/comments/kkjcec/had_trouble_finding_a_gralhund_villa_map_so_made/)
-      * 
-    * [Gralhund Villa](https://imgur.com/a/Lvz1Nja#pU3B7GA)
-  *  * * * [J.B. Nevercott's Haberdashery](https://www.patreon.com/posts/j-b-nevercotts-47653881)
-
-        * [Shrine to Asmodeus](https://www.patreon.com/posts/shrine-to-47737743)
+      * [Shrine to Asmodeus](https://www.patreon.com/posts/shrine-to-47737743)
 
 ## Sea Ward
 
