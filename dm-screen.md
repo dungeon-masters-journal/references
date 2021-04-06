@@ -7,3 +7,5 @@
 * [7 Habits of Highly Effective NPC](https://www.reddit.com/r/DnDBehindTheScreen/comments/blrt67/steal_my_idea_the_7_habits_of_highly_effective/)
 * [Skill Challenge One-Pager](https://www.reddit.com/r/mattcolville/comments/jzohmn/since_were_sharing_skill_challenge_onepagers/)
 
+
+
